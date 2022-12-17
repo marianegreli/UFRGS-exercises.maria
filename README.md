@@ -1,4 +1,4 @@
-# UFRGS-exercises.maria
+# UFRGS exercises
 
 Welcome to my 1st period programming exercises! 
 
