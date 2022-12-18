@@ -2,6 +2,7 @@
 
 #include<stdio.h>
 void main(){
+    
     int n, i, fatorial=1, contador;
     printf("Entre com um numero inteiro: ");
     scanf("%d", &n);
